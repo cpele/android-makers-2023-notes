@@ -10,7 +10,7 @@ Legend:
 
 ## Days
 
-- [202304280932. Android Makers 2023 Day 1](202304280932.%20Android%20Makers%202023%20Day%201.md)
-- [202304280932. Android Makers 2023 Day 2](202304280932.%20Android%20Makers%202023%20Day%202.md)
+- [202304280932. Android Makers 2023 Day 1](202304280932.%20Android%20Makers%202023%20Day%201)
+- [202304280932. Android Makers 2023 Day 2](202304280932.%20Android%20Makers%202023%20Day%202)
 
 
