@@ -1,4 +1,4 @@
-Legend:
+Abbreviations used in these notes:
 - NDCP: Note Done by Christophe Pelé
 - (?) Didn't catch that, deducing from context
 - (...) Wasn't listening
